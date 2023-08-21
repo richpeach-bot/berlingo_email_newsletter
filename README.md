@@ -1,0 +1,1 @@
+# berlingo_email_newsletter
